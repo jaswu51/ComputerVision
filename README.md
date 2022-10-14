@@ -8,4 +8,4 @@ ___
 
 ***explorePixels.ipynb***
 
-how the image tensor works 
+how the image tensor works, and visualize an image tensor created by hand
