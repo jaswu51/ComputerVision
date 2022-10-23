@@ -15,3 +15,10 @@ ___
 ***autoEncoder.ipynb***
 
 build an autoEncoder using nn.linear only, to compare the orginal image and reconstructed one
+
+
+___
+
+***Facial-Keypoints-Detection-master folder***
+
+try out different models to detect he facial keypoints
