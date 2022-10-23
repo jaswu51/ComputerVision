@@ -19,6 +19,6 @@ build an autoEncoder using nn.linear only, to compare the orginal image and reco
 
 ___
 
-***Facial-Keypoints-Detection-master folder***
+***kaggle-Facial-Keypoints-Detection folder***
 
 try out different models to detect he facial keypoints
