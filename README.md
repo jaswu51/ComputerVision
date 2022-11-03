@@ -21,6 +21,6 @@ ___
 
 ***kaggle-Facial-Keypoints-Detection folder***
 
-try out different models to detect he facial keypoints
+try out different models to detect he facial keypoints, rank 10/175 on kaggle leaderboard
 
 https://www.kaggle.com/competitions/facial-keypoints-detection/data
